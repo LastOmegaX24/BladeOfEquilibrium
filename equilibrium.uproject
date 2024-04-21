@@ -1,0 +1,32 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{37A17504-4C4A-93BA-CD64-B5A83F4C275E}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "equilibrium",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "GMC",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/0a128683c41f4b59906c661b95ca8655"
+		},
+		{
+			"Name": "OneClickOnlineSubsystem",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher:\n//ue/marketplace/product/b42b304ba70b44ea8240afa83a859871"
+		}
+	]
+}
