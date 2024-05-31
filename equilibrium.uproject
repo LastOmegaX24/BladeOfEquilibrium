@@ -27,6 +27,21 @@
 			"Name": "OneClickOnlineSubsystem",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher:\n//ue/marketplace/product/b42b304ba70b44ea8240afa83a859871"
+		},
+		{
+			"Name": "AutoFootstep",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/66cea07913a248bba0ada8dd73c809b9"
+		},
+		{
+			"Name": "MeleeTrace",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/42b0bb860bcd4995b70d40f152a6e9b9"
+		},
+		{
+			"Name": "EnhancedInputSequence",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/c33feca902ef41829dc5ea8c64bec183"
 		}
 	]
 }
